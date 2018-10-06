@@ -1,0 +1,3 @@
+[submodule "gofair"]
+	path = gofair
+	url = https://github.com/psychoinformatics-de/talk-datalad-gofair.git
