@@ -1,5 +1,9 @@
 # Talks on DataLad
 
+More presentations (talk slides and videos, posters, etc) are
+available or linked to from https://github.com/datalad/artwork
+repository.
+
 ## License
 
 Content is covered by the individual licenses identified in the respective
